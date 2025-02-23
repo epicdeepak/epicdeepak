@@ -1,8 +1,8 @@
-## Hey there 👋, I'm [Deepak Verma!](https://github.com/deeqakkk/)
+## Hey there 👋, I'm [Deepak Verma!](https://github.com/epicdeepak/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deeqakkk)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deeqakkk)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/letdeepak.dev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/epicdeepak)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/epicdeepak)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/deepakverma.dev/)
 
 ### Glad to see you here! &nbsp; 
 
@@ -17,7 +17,7 @@
 
 1. 🛠 &nbsp; I’m currently working with Javascript, React.js & Node.js.
 2. 🚀 &nbsp; I’m currently exploring Databases.
-3. 💬 &nbsp; Ask me anything [here](https://twitter.com/Deeqakkk)! I am happy to help.
+3. 💬 &nbsp; Ask me anything [here](https://twitter.com/epicdeepak)! I am happy to help.
 4. 👾 &nbsp; Fun fact: ```The term "bug" in coding originated when Grace Hopper found an actual moth causing issues in a computer, coining the term "debugging"!```.
 5. 📫 &nbsp; Reach me out: 0822deepakverma@gmail.com.
 
@@ -43,12 +43,12 @@
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deeqakkk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeqakkk&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epicdeepak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicdeepak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deeqakkk&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=epicdeepak&hide_border=true" />
 </details>
